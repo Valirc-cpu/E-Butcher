@@ -1,5 +1,4 @@
-import pyfiglet as pf
-import questionary as qu
+
 from colorama import Fore as fr, Style as st
 
 from functions.login import seller_login, customer_login, courier_login
